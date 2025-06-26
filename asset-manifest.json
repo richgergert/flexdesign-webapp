@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/flexdesign-webapp/static/css/main.ea432ce5.css",
-    "main.js": "/flexdesign-webapp/static/js/main.afe033f3.js",
-    "static/js/453.607bcf1c.chunk.js": "/flexdesign-webapp/static/js/453.607bcf1c.chunk.js",
+    "main.js": "/flexdesign-webapp/static/js/main.9b2eb982.js",
     "index.html": "/flexdesign-webapp/index.html",
-    "main.ea432ce5.css.map": "/flexdesign-webapp/static/css/main.ea432ce5.css.map",
-    "main.afe033f3.js.map": "/flexdesign-webapp/static/js/main.afe033f3.js.map",
-    "453.607bcf1c.chunk.js.map": "/flexdesign-webapp/static/js/453.607bcf1c.chunk.js.map"
+    "main.9b2eb982.js.map": "/flexdesign-webapp/static/js/main.9b2eb982.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea432ce5.css",
-    "static/js/main.afe033f3.js"
+    "static/js/main.9b2eb982.js"
   ]
 }
